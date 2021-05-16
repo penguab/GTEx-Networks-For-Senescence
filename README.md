@@ -1,6 +1,6 @@
 # GTEx-Networks-For-Senescence
 
-This directory contains the MEGENA co-networks from 50 human tissues from GTEx database.
+This directory contains the MEGENA co-networks for 50 human tissues from GTEx database.
 
 Author: Peng Xu
 
