@@ -22,7 +22,7 @@ GTEx_module.tsv: The module genes for each co-expression network.
 
 GTEx_module_REACTOME.tsv: The enriched REACTOME pathways for the network modules.
 
-#Citation
+##Citation
 For detailed method information, please refer to the Senescence manuscript and the MEGENA publication (Song W.-M., Zhang B. (2015) Multiscale Embedded Gene Co-expression Network Analysis. PLoS Comput Biol 11(11): e1004574.)
 
 ## News
